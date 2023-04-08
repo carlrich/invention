@@ -1,0 +1,30 @@
+.navegacion-logo {
+  height: 40px;
+}
+
+.navbar-nav {
+  justify-content: end;
+}
+
+.formulario_administrador {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.formulario_productos {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.centrar {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+.imagen_libro {
+  height: 320px;
+}/*# sourceMappingURL=style.css.map */
